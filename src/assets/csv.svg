@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Settings---Mnemonic" transform="translate(-315.000000, -451.000000)">
+            <g id="Group-22" transform="translate(278.000000, 442.000000)">
+                <g id="Group-15">
+                    <g id="Rectangle-9">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill-opacity="0.2" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Group-6" transform="translate(32.000000, 8.000000)" fill-rule="nonzero">
+                        <g id="Group-3">
+                            <rect id="Rectangle-6" opacity="0.100000001" x="0.774193548" y="0" width="23.2258065" height="23.2258065"></rect>
+                            <g id="Group-32" transform="translate(5.094141, 2.012496)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3">
+                                <path d="M0.556344338,6.85498558 L0.556344338,2.38165834 C0.556344338,1.2354499 1.48552987,0.30626437 2.63173831,0.30626437 L8.6535442,0.30626437 C9.1745854,0.30626437 9.67656438,0.502250519 10.0597685,0.855292315 L13.7231345,4.23031135 C14.1496534,4.62325858 14.3923041,5.17674125 14.3923041,5.75667738 L14.3923041,16.2176182 C14.3923041,17.3638266 13.4631186,18.2930121 12.3169102,18.2930121 L2.63173831,18.2930121 C1.48552987,18.2930121 0.556344338,17.3638266 0.556344338,16.2176182 L0.556344338,15.1057133 L0.556344338,6.85498558 Z" id="Rectangle-7"></path>
+                                <g id="Group-9" transform="translate(3.026319, 7.704209)">
+                                    <polygon id="Path-2-Copy-2" points="0.463046558 0 8.82218667 6.54891694e-13 8.82218667 6.65651374 0.463046558 6.65651374"></polygon>
+                                    <line x1="0.635429265" y1="3.41798344" x2="8.67647193" y2="3.41798344" id="Path-2-Copy"></line>
+                                    <line x1="4.62284511" y1="0.96" x2="4.62284511" y2="5.61691865" id="Path-2"></line>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

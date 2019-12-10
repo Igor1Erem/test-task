@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="18px" viewBox="0 0 19 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Icon - Transactions</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Settings---Mnemonic" transform="translate(-64.000000, -127.000000)">
+            <g id="Group-2" transform="translate(29.000000, -85.000000)">
+               
+                <g id="Menu---Transactions" transform="translate(32.000000, 209.000000)">
+                    <g id="Icon---Transactions" transform="translate(0.000000, 0.500000)">
+                        <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                        <g id="Group-25" transform="translate(4.000000, 4.000000)">
+                            <path d="M15.4927816,11.2679235 L15.4927816,14.0068345 C15.4927816,14.7507363 14.8423648,15.353416 14.0401178,15.353416 L1.45279636,15.353416 C0.650549372,15.353416 0.000132602807,14.7507363 0.000132602807,14.0068345 L0.000132602807,1.34658151 C0.000132602807,0.602679759 0.650549372,1.95399252e-14 1.45279636,1.95399252e-14 L14.0401178,1.95399252e-14 C14.8423648,1.95399252e-14 15.4927816,0.602679759 15.4927816,1.34658151 L15.4927816,4.42495568" id="Stroke-1" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M16.1953113,10.9383393 L11.9513584,10.9383393 C10.1784589,10.9383393 8.74170746,9.50158785 8.74170746,7.72868832 C8.74170746,5.95578878 10.1784589,4.51903737 11.9513584,4.51903737 L16.1953113,4.51903737 C16.6633992,4.51903737 17.0426432,4.8982814 17.0426432,5.36636931 L17.0426432,10.0903443 C17.0426432,10.5590952 16.6633992,10.9383393 16.1953113,10.9383393 Z" id="Stroke-3" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <line x1="-1.42108547e-14" y1="2.75588414" x2="4.04902672" y2="2.75588414" id="Stroke-5" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <line x1="-1.42108547e-14" y1="12.6182179" x2="4.04902672" y2="12.6182179" id="Stroke-7" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <path d="M13.1418001,7.72848941 C13.1418001,8.27812805 12.6962547,8.72301047 12.1472791,8.72301047 C11.5976404,8.72301047 11.152758,8.27812805 11.152758,7.72848941 C11.152758,7.17951379 11.5976404,6.73396836 12.1472791,6.73396836 C12.6962547,6.73396836 13.1418001,7.17951379 13.1418001,7.72848941" id="Fill-9" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

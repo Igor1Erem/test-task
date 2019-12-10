@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="18px" viewBox="0 0 16 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Group 3 Copy 2</title>
+    <desc>Created with Sketch.</desc>
+   
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Settings---Mnemonic" transform="translate(-724.000000, -452.000000)">
+            <g id="Background" transform="translate(501.000000, 77.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Rectangle" fill="url(#linearGradient-1)" fill-rule="nonzero" xlink:href="#path-2"></use>
+            </g>
+            <g id="Group-22" transform="translate(278.000000, 442.000000)">
+                <g id="Group-23" transform="translate(410.000000, 0.000000)">
+                    <g id="Rectangle-9">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                        <use fill-opacity="0.2" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    </g>
+                    <g id="Group-19" transform="translate(32.000000, 8.000000)" fill-rule="nonzero">
+                        <g id="Group-3-Copy-2">
+                            <rect id="Rectangle-6" opacity="0.100000001" x="0.774193548" y="0" width="23.2258065" height="23.2258065"></rect>
+                            <g id="Group-28" transform="translate(5.152477, 2.972903)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3">
+                                <g id="Group-24" transform="translate(3.923762, 0.000000)">
+                                    <path d="M0.360733003,3.58180976 L0.360733003,2.08212558 C0.360733003,1.29570188 0.998255371,0.658179514 1.78467907,0.658179514 L5.91629307,0.658179514 C6.27378402,0.658179514 6.61819622,0.792647335 6.88111596,1.03487242 L9.39458359,3.35050268 C9.68722198,3.62010722 9.85370676,3.99985655 9.85370676,4.39775584 L9.85370676,11.5750993 C9.85370676,12.361523 9.21618439,12.9990454 8.4297607,12.9990454 L6.49319405,12.9990454" id="Rectangle-7"></path>
+                                </g>
+                                <g id="Group-24-Copy" transform="translate(0.000000, 3.139010)">
+                                    <path d="M0.360733003,5.15131475 L0.360733003,2.08212558 C0.360733003,1.29570188 0.998255371,0.658179514 1.78467907,0.658179514 L5.91629307,0.658179514 C6.27378402,0.658179514 6.61819622,0.792647335 6.88111596,1.03487242 L9.39458359,3.35050268 C9.68722198,3.62010722 9.85370676,3.99985655 9.85370676,4.39775584 L9.85370676,11.5750993 C9.85370676,12.361523 9.21618439,12.9990454 8.4297607,12.9990454 L1.78467907,12.9990454 C0.998255371,12.9990454 0.360733003,12.361523 0.360733003,11.5750993 L0.360733003,5.15131475 Z" id="Rectangle-7"></path>
+                                    <line x1="2.84246809" y1="5.71788331" x2="5.10144219" y2="5.71788331" id="Path-2"></line>
+                                    <line x1="2.84246809" y1="8.59788331" x2="7.02144219" y2="8.59788331" id="Path-2-Copy"></line>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

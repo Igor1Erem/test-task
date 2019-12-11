@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const AppContainer = styled.div`
   display: flex;
@@ -8,7 +8,7 @@ export const AppContainer = styled.div`
   align-items: center;
   background-color: #6898ac;
 `;
-  
+
 export const ContentContainer = styled.div`
   display: flex;
   flex-direction: column;
@@ -16,11 +16,11 @@ export const ContentContainer = styled.div`
   width: 75%;
   align-items: center;
   min-height: 100vh;
+  overflow: hidden;
 `;
 
 export const HeaderContainer = styled.div`
   display: flex;
-  height: 15vh;
   width: 85%;
 `;
 
@@ -29,4 +29,8 @@ export const MainContainer = styled.div`
   width: 100%;
   padding: 0 50px 0 40px;
   box-sizing: border-box;
+
+  @media (max-width: 375px) {
+    padding: 0 20px;
+  }
 `;

@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 import {
   MnemonicBlockContainer,
@@ -7,7 +7,7 @@ import {
   MnemonicText,
   MnemonicButton,
   TitleContainer
-} from './style';
+} from "./style";
 
 const MnemonicBlock = () => {
   return (
@@ -17,14 +17,13 @@ const MnemonicBlock = () => {
       </TitleContainer>
       <MnemonicContent>
         <MnemonicText>
-          Better join pond company palace sing forward egg joy cabin apart future
+          Better join pond company palace sing forward egg joy cabin apart
+          future
         </MnemonicText>
-        <MnemonicButton>
-          COPY
-        </MnemonicButton>
+        <MnemonicButton>copy</MnemonicButton>
       </MnemonicContent>
     </MnemonicBlockContainer>
-  )
-}
+  );
+};
 
-export default MnemonicBlock
+export default MnemonicBlock;

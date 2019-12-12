@@ -17,6 +17,10 @@ export const ContentContainer = styled.div`
   align-items: center;
   min-height: 100vh;
   overflow: hidden;
+
+  @media (max-width: 375px) {
+    width: 100%;
+  }
 `;
 
 export const HeaderContainer = styled.div`

@@ -24,10 +24,12 @@ export const MnemonicTitle = styled.h3`
 
 export const MnemonicContent = styled.div`
   display: flex;
-  align-items: center;
+  flex-direction: column;
+  align-items: flex-start;
   justify-content: space-between;
   width: 95%;
-  margin: 0 20px;
+  padding: 0 20px;
+  box-sizing: border-box;
   @media (max-width: 375px) {
     flex-direction: column;
     align-items: flex-start;
@@ -39,6 +41,7 @@ export const MnemonicText = styled.p`
   font-style: normal;
   font-weight: 800;
   font-size: 16px;
+  margin: 20px 0 0 0;
   @media (max-width: 375px) {
     font-size: 12px;
   }
@@ -57,14 +60,21 @@ export const MnemonicButton = styled.button`
   font-style: normal;
   font-weight: bold;
   font-size: 12px;
-  @media (max-width: 375px) {
+  margin: 20px 0;
+  /* @media (max-width: 375px) {
     width: 45px;
     height: 15px;
-  }
+  } */
 `;
 
 export const TitleContainer = styled.div`
-  border-bottom: 0.5px solid gray;
+  border-bottom: 0.5px solid #e0e2eb;
   width: 95%;
   margin: 0 auto;
+  box-sizing: border-box;
+
+  @media (max-width: 375px) {
+    padding: 0 20px;
+    margin: 0;
+  }
 `;

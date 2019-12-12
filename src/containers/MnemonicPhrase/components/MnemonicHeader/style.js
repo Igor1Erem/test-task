@@ -7,7 +7,7 @@ export const MnemonicHeaderContainer = styled.div`
   color: white;
   margin-bottom: 40px;
   @media (max-width: 375px) {
-  margin-bottom: 32px;
+    margin-bottom: 32px;
   }
 `;
 

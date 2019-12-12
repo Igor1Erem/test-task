@@ -23,6 +23,9 @@ export const TableTitle = styled.div`
   padding-bottom: 20px;
   padding-left: 15px;
   padding-right: 10px;
+  @media (max-width: 375px) {
+    display: none;
+  }
 `;
 
 export const TitleItem = styled.div`
